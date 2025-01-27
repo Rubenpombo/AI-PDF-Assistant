@@ -1,1 +1,9 @@
 venv/
+# Archivos compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuración de IDEs/editores
+*.vscode/
+.idea/
